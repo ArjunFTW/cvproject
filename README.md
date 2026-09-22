@@ -115,6 +115,3 @@ future-work roadmap are available in the accompanying project report.
 - [ ] Streamlit or web-based interface
 - [ ] Transfer-learning-based model upgrade
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
